@@ -33,5 +33,5 @@ This project is a **Image & Video Upload Platform** built using modern technolog
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/atikur28/cloudinary-image-video-upload.git
+cd cloudinary-image-video-upload
